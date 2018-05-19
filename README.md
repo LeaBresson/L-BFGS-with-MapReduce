@@ -8,4 +8,4 @@ Nowadays, there is an increasing demand to deal with massive instances and varia
 
 ## Authors
 
-Léa Bresson - Kolia Iakovlev
+Léa Bresson (lea.bresson@ensae.fr) - Kolia Iakovlev (kolia.iakovlev@ensae.fr)
