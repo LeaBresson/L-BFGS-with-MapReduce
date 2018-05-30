@@ -1,6 +1,6 @@
 # Large-scale L-BFGS using MapReduce
 
-Project for the course "Eléments logiciels pour le traitement des données massives" at ENSAE ParisTech.
+Project for the course "Eléments logiciels pour le traitement des données massives" at ENSAE ParisTech (lecturer: Xavier Dupré).
 
 ## Context
 
